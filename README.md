@@ -8,8 +8,6 @@ our [SvelteKit example](https://github.com/vercel/vercel/tree/main/examples/svel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/svelte&template=svelte)
 
-_Live Example: https://knight.chesscord.wiki/
-
 ## Getting Started
 
 ```bash
